@@ -19,5 +19,7 @@
   <li>Firebase - Auth e Firestore</li>
 </ul>
 
+## 🚀 Projeto
+
 ![cover](.github/cover.gif?style=flat)
 
