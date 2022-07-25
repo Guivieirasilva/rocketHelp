@@ -19,3 +19,5 @@
   <li>Firebase - Auth e Firestore</li>
 </ul>
 
+![cover](.github/cover.gif?style=flat)
+
