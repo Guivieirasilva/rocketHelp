@@ -3,7 +3,7 @@
 
 ## 🆕 Funcionalidades
 <ul>
-<li>Autentificação de usuário</li>
+<li>Autenticação de usuário</li>
 <li>criação de solicitações</li>
 <li>filtro de solicitações através do status</li>
 <li>sinconização com banco de dados em tempo real</li>
